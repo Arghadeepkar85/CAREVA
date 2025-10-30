@@ -80,7 +80,7 @@ https://github.com/user-attachments/assets/6966df47-c1dc-4454-afc2-1609e7a5a039
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/careva.git
+git clone https://github.com/Arghadeepkar85/CAREVA
 cd careva
 
 # Install dependencies
@@ -108,7 +108,7 @@ python app.py
 |------|------|--------|
 | Abhik Ghosh | Lead Developer | [@abhikghosh2049](https://github.com/abhikghosh2049) |
 | Rajesh Dinda | AI + Blockchain Engineer | [@Rajesh-007-dl](https://github.com/Rajesh-007-dl) |
-
+| Arghadeep Kar | Frontend Devloper | [@Arghadeepkar85](https://github.com/Arghadeepkar85) |
 ---
 
 ## ⭐ Acknowledgements  
