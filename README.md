@@ -110,9 +110,10 @@ python app.py
 
 | Name | Role | GitHub |
 |------|------|--------|
+| Arghadeep Kar | AI Devloper | [@Arghadeepkar85](https://github.com/Arghadeepkar85) |
 | Abhik Ghosh | Lead Developer | [@abhikghosh2049](https://github.com/abhikghosh2049) |
-| Rajesh Dinda | AI + Blockchain Engineer | [@Rajesh-007-dl](https://github.com/Rajesh-007-dl) |
-| Arghadeep Kar | Frontend Devloper | [@Arghadeepkar85](https://github.com/Arghadeepkar85) |
+| Rajesh Dinda | Blockchain Engineer | [@Rajesh-007-dl](https://github.com/Rajesh-007-dl) |
+
 ---
 
 ## ⭐ Acknowledgements  
